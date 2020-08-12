@@ -1,0 +1,72 @@
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\bin\Debug\manager.exe.config
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\bin\Debug\manager.exe
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\bin\Debug\manager.pdb
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.Properties.Resources.resources
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.exe
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.pdb
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.Form1.resources
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.insert.resources
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.delete.resources
+E:\프로그래밍\2020c#\project\projectManager\manager\manager\obj\Debug\manager.update.resources
+C:\Users\305\Desktop\manager\manager\bin\Debug\manager.exe.config
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.exe
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.pdb
+C:\Users\305\Desktop\manager\manager\bin\Debug\manager.exe
+C:\Users\305\Desktop\manager\manager\bin\Debug\manager.pdb
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.delete.resources
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.Form1.resources
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.insert.resources
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.update.resources
+C:\Users\305\Desktop\manager\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+C:\Users\305\Desktop\PcrommV2\manager\manager\bin\Debug\manager.exe.config
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.exe
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.pdb
+C:\Users\305\Desktop\PcrommV2\manager\manager\bin\Debug\manager.exe
+C:\Users\305\Desktop\PcrommV2\manager\manager\bin\Debug\manager.pdb
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.Form1.resources
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.insert.resources
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.update.resources
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+C:\Users\305\Desktop\PcrommV2\manager\manager\obj\Debug\manager.CtUser.resources
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\bin\Debug\manager.exe.config
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.exe
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.pdb
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\bin\Debug\manager.exe
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\bin\Debug\manager.pdb
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.CtUser.resources
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.Form1.resources
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.insert.resources
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.update.resources
+C:\Users\305\Desktop\PcrommV2 매니저 합본\manager\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\bin\Debug\manager.exe.config
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.exe
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.pdb
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\bin\Debug\manager.exe
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\bin\Debug\manager.pdb
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.CtUser.resources
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.Form1.resources
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.insert.resources
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.update.resources
+C:\Users\305\Desktop\PcrommV2_최종본\manager\manager\obj\Debug\manager.csproj.GenerateResource.Cache
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\bin\Debug\manager.exe.config
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.exe
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.pdb
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\bin\Debug\manager.exe
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\bin\Debug\manager.pdb
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.csprojResolveAssemblyReference.cache
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.CtUser.resources
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.Form1.resources
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.insert.resources
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.Properties.Resources.resources
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.update.resources
+C:\Users\305\Dropbox\c#\PcrommV2\manager\manager\obj\Debug\manager.csproj.GenerateResource.Cache
